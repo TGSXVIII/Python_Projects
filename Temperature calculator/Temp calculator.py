@@ -11,4 +11,4 @@ celsius = int(input("Enter temperature in Celsius: "))
 
 faren2 = int((celsius * 1.8) + 32)
 
-print(f" {celsius} degrees Celsius is equal to {faren2} Fahrenheit")
+print(f"{celsius} degrees Celsius is equal to {faren2} Fahrenheit")

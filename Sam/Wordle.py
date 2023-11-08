@@ -3,7 +3,7 @@ from random import randrange
 import string
 
 # This is what opens our txt file and gives us our word list
-word_list = open("WordleWords.txt", "r")
+word_list = open("Personer/Mads/Games/WordleM.txt", "r") #missing words
 words = word_list.read()
 
 # The word we have to guess is set into a list
@@ -89,3 +89,5 @@ def wordle():
 
 wordle()
 
+# print("You have " + liv + " lives left")
+# print("you have ", liv, "lives left")

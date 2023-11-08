@@ -50,12 +50,16 @@ def numbersChoosenAll():
     number = int(input("Type the number here 3: "))
     array.append(number)
     print(array)
+    
     for i in plader.keys():
         if all(x in array for x in plader[i][0]) and all(x in array for x in plader[i][1]) and all(x in array for x in plader[i][2]):
+
             print("The plate ID: " + str(i))
             print("The plate numbers " + str(plader[i]))
             print("You got the whole plate congratulations!")
+
             exit()
+
             numbersChoosenAll()
     numbersChoosenOne()
 
@@ -63,6 +67,7 @@ def numbersChoosenAll():
 def Replay():
     print('Do you want to play again? [Y/N]')
     reply = input().lower()
+
     if reply == 'y':
 
     elif reply == 'n':
