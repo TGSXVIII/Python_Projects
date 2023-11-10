@@ -8,6 +8,7 @@ Sams_joke = pyjokes.get_joke(language="en", category="all")
 def jokes():
     print("Here is your joke")
     time.sleep(2.5)
+
     print(Sams_joke)
     time.sleep(2)
 
@@ -17,6 +18,7 @@ def jokes():
     if jokes_reply == "yes" or jokes_reply == "y":
         print("Here is your joke")
         time.sleep(2.5)
+
         print(Sams_joke)
         time.sleep(2)
 

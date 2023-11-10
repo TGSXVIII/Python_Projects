@@ -1,34 +1,46 @@
-from CitySelect import citySelect
 from CharacterCreation import *
+import time
 
+# Create a dictionary to map country numbers to their corresponding names
+country_data = {
+    "1": "Witdeaory, The Ancient Territory of the elves",
+    "2": "Drafroory, Territory of the Dragons",
+    "3": "Warsorach, Reach of the Warriors",
+    "4": "Trolosdom, The Kingdom of the Trolls",
+    "5": "Witdeaxus, Nexus of the Witches",
+}
 
-#--- World select ---#
+# Function to select a country
 def countrySelect():
 
-        countrySelectNumber = ("1", "2", "3", "4", "5", "6")
-        countrySelectName = ("witdeaory", "drafroory", "warsorach", "trolosdom", "witdeaxus", "gimbadur")
+    time.sleep(1)
+    print("Here are the different starting countries you can choose from:")
 
-        #This lets you decide which country you would like to start from
-        time.sleep(1)
-        print("Here are the different starting countries you can choose from")
+    time.sleep(2)
+    for number, country in country_data.items():
+        print(f"{number}. {country}")
 
-        time.sleep(2)
-        print("1. Witdeaory, The Ancient Territory of the elves")
-        print("2. Drafroory, Territory of the Dragons")
-        print("3. Warsorach, Reach of the Warriors")
-        print("4. Trolosdom, The Kingdom of the Trolls")
-        print("5. Witdeaxus, Nexus of the Witches")
+    time.sleep(2)
+    while True:
+        answer = input("Which country would you like to start your story from? ").strip()
 
-        time.sleep(4)
-        answer = input("Which country would you like to start your story from?").lower()
+        if answer in country_data:
+            countrySelected = country_data[answer]
+            print(f"You have chosen {countrySelected}. Is this correct?")
 
+            while True:
+                check = input("Are you sure? (Yes/No): ").strip().lower()
 
-        if answer != countrySelectName or answer != countrySelectNumber:
-            print("That is not a valid input please try again")
-            citySelect()
-
+                if check in ["yes", "y"]:
+                    print(f"Well then, traveler, welcome to the country {countrySelected}.")
+                    return
+                elif check in ["no", "n"]:
+                    print("Please select another country.")
+                    break
+                else:
+                    print("That is an invalid input. Try again.")
         else:
-            print("Thats not a valid input please try again")
-            citySelect()
+            print("That is not a valid input. Please try again.")
 
-    countrySelect()
+# Start the country selection process
+countrySelect()

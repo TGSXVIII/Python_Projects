@@ -32,6 +32,6 @@ def CharacterCreation():
         CharacterCreation()
 
     time.sleep(1)
-    print(f"Well hell there {name} the {gender} and i see that you are {sexuality} very cool")
+    print(f"Well hell there {name}")
 
 CharacterCreation()

@@ -19,7 +19,7 @@ print(f"Hello {user} ask a question: ")
 def Magic8Ball():
     question = input()
 
-    if question == "what is the meaning with life":
+    if question == "what is the meaning of life" or question == "what is the meaning with life":
         print("42")
         Replay()
 
@@ -39,11 +39,14 @@ def Magic8Ball():
 def Replay():
     print('Do you have another question? [Y/N] ')
     reply = input()
+
     if reply == 'y':
         print("ask me a question")
         Magic8Ball()
+
     elif reply == 'n':
         exit()
+
     else:
         print('I apologies, I did not catch that. Please repeat.')
         Replay()
