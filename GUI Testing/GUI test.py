@@ -5,8 +5,8 @@ import csv
 
 window = tk.Tk()  # selve vunduet
 window.title('My Window')
-window.geometry('720x400')  # størrelsen på vinduet X*Y
-background = Frame(window, bg='white', width=720, height=400)  # en frame der fylder baggrunden
+window.geometry('350x200')  # størrelsen på vinduet
+background = Frame(window, bg='white', width=350, height=200)  # en frame der fylder baggrunden
 background.place(x=0, y=0)
 
 l = tk.Label(window, bg='white', text='Velkommen til programmet')  # label øverst på siden
@@ -27,7 +27,6 @@ def timer():  # henter tiden i real time
     clock.after(200, timer)
     return timenow
 
-
 timer()
 
 def fornavn():  # henter fornavn og efternavn
@@ -39,7 +38,6 @@ def medlemsnummer():  # henter medlemsnummer
     medlemsnummer1 = e2.get()
     print(medlemsnummer1)
     return medlemsnummer1
-
 
 var1 = tk.IntVar()  # laver inputtet om til en variable
 var2 = tk.IntVar()
@@ -93,10 +91,8 @@ def print_selection():  # definition som man henter i knappen
         data = [fornavn(), medlemsnummer(), timenow, kryds]
         writer.writerow(data)
 
-
-tk.Button(window, text='Submit', command=print_selection).place(x=150,
-                                                                y=150)  # laver en knap med funktionen print_selection
-
+# Buttons
+tk.Button(window, text='Submit', command=print_selection).place(x=150, y=150)  # laver en knap med funktionen print_selection
 tk.Button(window, text='Quit', fg='red', command=window.quit).place(x=50, y=150)  # laver en knap som lukker prgrammet
 
 window.mainloop()  # kører det i loop ind til andet er sagt
