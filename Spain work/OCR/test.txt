@@ -1,0 +1,115 @@
+Invoice
+
+Invoice number D182CC46-0007
+Date of issue November 7, 2023
+Date due November 7, 2023
+OpenAl VAT EU372041333
+
+OpenAl, LLC
+548 Market Street
+PMB 97273
+
+San Francisco, California 94104-5401
+
+United States
+ar@openai.com
+
+EU OSS VAT EU372041333
+
+$134.45 USD due November 7, 2023
+
+Pay online
+
+Description
+
+GPT-3.5 - 4K context, input
+Sep 30 - Oct 31, 2023
+
+GPT-3.5 - 4K context, output
+Sep 30 — Oct 31, 2023
+
+InstructGPT - Davinci
+Sep 30 - Oct 31, 2023
+
+Audio models - Whisper
+Sep 30 —- Oct 31, 2023
+
+D182CC46-0007 - $134.45 USD due November 7, 2023
+
+Bill to
+
+Kevin Sanchez
+
+del Suis 6
+
+43530 Alcanar Tarragona
+
+Spain
+
+Qty
+
+91,684,411
+
+16,535,586
+
+8,608
+
+1,904
+
+Subtotal
+
+Unit price
+
+$0.0000015
+
+$0.000002
+
+$0.00002
+
+$0.0001
+
+Total excluding tax
+
+VAT - Spain (21% on $110.96)
+
+Total
+
+Applied balance
+
+Amount due
+
+Tax
+
+21%
+
+21%
+
+21%
+
+21%
+
+iS OpenAl
+
+Amount
+
+$77.53
+
+$33.07
+
+$0.17
+
+$0.19
+
+$110.96
+$110.96
+
+$23.30
+(€21.79)
+
+$134.26
+
+$0.19
+
+$134.45 USD
+
+Page 1 of 1
