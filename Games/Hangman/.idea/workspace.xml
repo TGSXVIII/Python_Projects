@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a5bdff0-98df-4da7-b36f-64af41c0e946" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bingo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bingo/.idea/Bingo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bingo/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bingo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bingo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bingo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bingo/Bingo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coin flip/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coin flip/.idea/Coin flip.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coin flip/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coin flip/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coin flip/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coin flip/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coin flip/Coin Flip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Countdown Timer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Countdown Timer/.idea/Countdown Timer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Countdown Timer/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Countdown Timer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Countdown Timer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Countdown Timer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Countdown Timer/Countdown Timer - Min.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Countdown Timer/Countdown Timer - Sec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency Converter/Converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice roll/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice roll/.idea/Dice roll.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice roll/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice roll/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice roll/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice roll/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice roll/12 dice roll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice roll/20 dice roll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice roll/6 dice roll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hangman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mad Libs/.idea - Kopi/Mad Libs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mad Libs/.idea/Mad Libs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPS/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPS/.idea/RPS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPS/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPS/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPS/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPS/RPS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic Tac Toe/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic Tac Toe/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic Tac Toe/RPG All.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic Tac Toe/RPG Upper and lower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../random num- word generator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../random num- word generator/Phrases &amp; Idioms.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../random num- word generator/Bingo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../random num- word generator/Mad Libs 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../random num- word generator/Mad Libs 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../random num- word generator/Mad Libs 3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../random num- word generator/Mad Libs 4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../random num- word generator/Random word gen.py" beforeDir="false" afterPath="$PROJECT_DIR$/../random num- word generator/Random phrase &amp; idiom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../random num- word generator/Rock, Paper, Scissors.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ERMCJMvnw6I6Iz5JhgkPgVNZ1Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Hangman" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Hangman" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\mads020n\PycharmProjects\Hangman\Hangman.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a5bdff0-98df-4da7-b36f-64af41c0e946" name="Changes" comment="" />
+      <created>1662553814510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662553814510</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

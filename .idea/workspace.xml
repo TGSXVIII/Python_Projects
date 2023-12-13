@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a620d38a-bc88-46f0-9eaf-8e19d509e00a" name="Changes" comment="this is all my python projects so far">
+      <change afterPath="$PROJECT_DIR$/Games/Bingo/venv/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Games/Tic Tac Toe/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Games/Tic Tac Toe/venv/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Games/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc/Dice roll/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc/Sam/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc/Translater/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Converter/Number Converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Converters/Binary Converter/Number Converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Converter/Word Converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Converters/Binary Converter/Word Converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bingo/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Bingo/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bingo/.idea/Bingo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Bingo/.idea/Bingo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bingo/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Bingo/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bingo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Bingo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bingo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Bingo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bingo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Bingo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bingo/Bingo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Bingo/Bingo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brain fuck/bf1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Brain fuck/bf1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Countdown Timer/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Games/RPS/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Countdown Timer/.idea/Countdown Timer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Countdown Timer/.idea/Countdown Timer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Countdown Timer/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Games/RPS/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Countdown Timer/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Countdown Timer/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Countdown Timer/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Countdown Timer/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Countdown Timer/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Games/RPS/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Countdown Timer/Countdown Timer - Hour.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Countdown Timer/Countdown Timer - Hour.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Countdown Timer/Countdown Timer - Min.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Countdown Timer/Countdown Timer - Min.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Countdown Timer/Countdown Timer - Sec.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Countdown Timer/Countdown Timer - Sec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Currency Converter/Converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Converters/Currency Converter/Converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dice roll/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Countdown Timer/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dice roll/.idea/Dice roll.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Dice roll/.idea/Dice roll.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dice roll/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Tic Tac Toe/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dice roll/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Dice roll/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dice roll/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Dice roll/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dice roll/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Countdown Timer/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dice roll/12 dice roll.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Dice roll/12 dice roll.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dice roll/20 dice roll.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Dice roll/20 dice roll.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dice roll/6 dice roll.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Dice roll/6 dice roll.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dice roll/Dice picker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Dice roll/Dice picker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnD experiment/CharacterCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/DnD experiment/CharacterCreation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnD experiment/CitySelect.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/DnD experiment/CitySelect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnD experiment/CountrySelect.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/DnD experiment/CountrySelect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnD experiment/TheStory.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/DnD experiment/TheStory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Games/Bingo/venv/Lib/site-packages/pip/_vendor/distlib/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Bingo/venv/Lib/site-packages/pip/_vendor/distlib/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Games/Bingo/venv/Lib/site-packages/pip/_vendor/requests/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Bingo/venv/Lib/site-packages/pip/_vendor/requests/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/Console Hangman/Hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/Console Hangman/Hangman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 1/Audio files/Voicy_YOU DIED .mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 1/Audio files/Voicy_YOU DIED .mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 1/Audio files/Voicy_freddy fazbear meme.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 1/Audio files/Voicy_freddy fazbear meme.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 1/Hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 1/Hangman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 1/Pictures/hangman0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 1/Pictures/hangman0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 1/Pictures/hangman1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 1/Pictures/hangman1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 1/Pictures/hangman10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 1/Pictures/hangman10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 1/Pictures/hangman11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 1/Pictures/hangman11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 1/Pictures/hangman2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 1/Pictures/hangman2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 1/Pictures/hangman3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 1/Pictures/hangman3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 1/Pictures/hangman4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 1/Pictures/hangman4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 1/Pictures/hangman5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 1/Pictures/hangman5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 1/Pictures/hangman6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 1/Pictures/hangman6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 1/Pictures/hangman7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 1/Pictures/hangman7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 1/Pictures/hangman8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 1/Pictures/hangman8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 1/Pictures/hangman9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 1/Pictures/hangman9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 1/Pictures/victory.png" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 1/Pictures/victory.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 1/Pictures/you died.png" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 1/Pictures/you died.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 2/Audio files/Voicy_YOU DIED .mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 2/Audio files/Voicy_YOU DIED .mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 2/Audio files/Voicy_freddy fazbear meme.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 2/Audio files/Voicy_freddy fazbear meme.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 2/Hangman Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 2/Hangman Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 2/Hangman_Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 2/Hangman_Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 2/Hangman_UI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 2/Hangman_UI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 2/Pictures/hangman0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 2/Pictures/hangman0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 2/Pictures/hangman1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 2/Pictures/hangman1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 2/Pictures/hangman10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 2/Pictures/hangman10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 2/Pictures/hangman11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 2/Pictures/hangman11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 2/Pictures/hangman2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 2/Pictures/hangman2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 2/Pictures/hangman3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 2/Pictures/hangman3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 2/Pictures/hangman4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 2/Pictures/hangman4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 2/Pictures/hangman5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 2/Pictures/hangman5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 2/Pictures/hangman6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 2/Pictures/hangman6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 2/Pictures/hangman7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 2/Pictures/hangman7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 2/Pictures/hangman8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 2/Pictures/hangman8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 2/Pictures/hangman9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 2/Pictures/hangman9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 2/Pictures/victory.png" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 2/Pictures/victory.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/PyGame Hangman 2/Pictures/you died.png" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Hangman/PyGame Hangman 2/Pictures/you died.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mad Libs/.idea/Mad Libs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Mad Libs/.idea/Mad Libs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mad Libs/Mad Libs 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Mad Libs/Mad Libs 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mad Libs/Mad Libs 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Mad Libs/Mad Libs 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mad Libs/Mad Libs 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Mad Libs/Mad Libs 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mad Libs/Mad Libs 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Mad Libs/Mad Libs 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Other stuff/Reminder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/Reminder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal information/PI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Personal information/PI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RNG/RNG.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/RNG/RNG.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RP&amp;IG/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Dice roll/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RP&amp;IG/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Countdown Timer/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RP&amp;IG/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/RP&amp;IG/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RP&amp;IG/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/RP&amp;IG/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RP&amp;IG/.idea/random num- word generator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/RP&amp;IG/.idea/random num- word generator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RP&amp;IG/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Dice roll/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RP&amp;IG/Phrases &amp; Idioms.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/RP&amp;IG/Phrases &amp; Idioms.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RP&amp;IG/Random phrase &amp; idiom.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/RP&amp;IG/Random phrase &amp; idiom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPG/RPG upper  &amp; lower.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/RPG/RPG upper  &amp; lower.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPG/RPG.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/RPG/RPG.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPS/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/RP&amp;IG/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPS/.idea/RPS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Games/RPS/.idea/RPS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPS/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Dice roll/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPS/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Games/RPS/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPS/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Games/RPS/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPS/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/RP&amp;IG/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPS/RPS People.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/RPS/RPS People.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPS/RPS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/RPS/RPS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sam/12 Dice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Sam/12 Dice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sam/20 Dice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Sam/20 Dice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sam/4 Dice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Sam/4 Dice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sam/6 Dice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Sam/6 Dice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sam/CoinFlip.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Sam/CoinFlip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sam/Countdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Sam/Countdown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sam/Hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Sam/Hangman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sam/RPS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Sam/RPS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sam/TTT.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Tic Tac Toe/Console TTT/TTT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sam/Wordle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Sam/Wordle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sam/funFact.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Sam/funFact.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sam/jokes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Sam/jokes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sam/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Sam/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sam/randomNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Sam/randomNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sam/time.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Sam/time.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sam/timer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Sam/timer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sam/weather.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Sam/weather.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spain work/OCR/Files/Invoice.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Spain work/OCR/Files/Invoice.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spain work/OCR/OCR.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spain work/OCR/OCR.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spain work/OCR/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Spain work/OCR/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temperature calculator/Temp calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Temperature calculator/Temp calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text adventures/Text Adventure 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Text adventures/Text Adventure 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tic Tac Toe/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Bingo/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tic Tac Toe/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/RP&amp;IG/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tic Tac Toe/Console TTT/TTT people.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Tic Tac Toe/Console TTT/TTT people.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tic Tac Toe/Console TTT/TTT.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Sam/TTT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tic Tac Toe/PyGame TTT/TTT People.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Tic Tac Toe/PyGame TTT/TTT People.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tic Tac Toe/PyGame TTT/TTT.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Tic Tac Toe/PyGame TTT/TTT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Translater/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Translater/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Translater/.idea/Translater.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Translater/.idea/Translater.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Translater/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Translater/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Translater/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Translater/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Translater/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Translater/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Translater/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Translater/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Translater/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Translater/words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wordle/Wordle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Wordle/Wordle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wordle/WordleWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Games/Wordle/WordleWords.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TGSXVIII&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="98424d90-f7cd-4dbd-a67d-b8a908e24537" />
+        <option name="url" value="https://github.com/TGSXVIII/Python-Projects.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2FfRDrMkUmpArcPuATSqku5dScq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mads020n/OneDrive - mercantec/PycharmProjects/Tic Tac Toe/PyGame TTT&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mads020n\OneDrive - mercantec\PycharmProjects\Tic Tac Toe\PyGame TTT" />
+      <recent name="C:\Users\mads020n\OneDrive - mercantec\PycharmProjects\Hangman\PyGame Hangman 1" />
+      <recent name="C:\Users\mads020n\OneDrive - mercantec\PycharmProjects\Hangman\PyGame Hangman" />
+      <recent name="C:\Users\mads020n\OneDrive - mercantec\PycharmProjects\Sam" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mads020n\OneDrive - mercantec\PycharmProjects\Games" />
+      <recent name="C:\Users\mads020n\OneDrive - mercantec\PycharmProjects\Misc" />
+      <recent name="C:\Users\mads020n\OneDrive - mercantec\PycharmProjects\Converters" />
+      <recent name="C:\Users\mads020n\OneDrive - mercantec\PycharmProjects\Apps" />
+      <recent name="C:\Users\mads020n\OneDrive - mercantec\PycharmProjects\Spain work\OCR\Files" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.RPG">
+    <configuration name="Hangman" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hangman/PyGame Hangman" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\mads020n\OneDrive - mercantec\PycharmProjects\Hangman\PyGame Hangman 1\Hangman.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RPG" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.9 (pythonProject)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RPG" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RPG/RPG.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RPG.py" type="PythonConfigurationType" factoryName="Python">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RPG" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RPG/RPG.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RPS" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.9 (pythonProject)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RPS" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RPS/RPS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="funFact" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sam/funFact.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jokes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sam/jokes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sam/time.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="timer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sam/timer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Hangman" />
+        <item itemvalue="Python.funFact" />
+        <item itemvalue="Python.jokes" />
+        <item itemvalue="Python.time" />
+        <item itemvalue="Python.timer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a620d38a-bc88-46f0-9eaf-8e19d509e00a" name="Changes" comment="" />
+      <created>1664881035883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664881035883</updated>
+    </task>
+    <task id="LOCAL-00001" summary="this is all my python projects so far">
+      <option name="closed" value="true" />
+      <created>1699435020573</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699435020573</updated>
+    </task>
+    <task id="LOCAL-00002" summary="this is all my python projects so far">
+      <option name="closed" value="true" />
+      <created>1699627765812</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699627765812</updated>
+    </task>
+    <task id="LOCAL-00003" summary="this is all my python projects so far">
+      <option name="closed" value="true" />
+      <created>1701179171230</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701179171231</updated>
+    </task>
+    <task id="LOCAL-00004" summary="this is all my python projects so far">
+      <option name="closed" value="true" />
+      <created>1701433126096</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701433126097</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="this is all my python projects so far" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is all my python projects so far" />
+  </component>
+</project>
