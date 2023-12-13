@@ -1,6 +1,6 @@
 import string
 import pyjokes
-import time
+from Misc.Sam import time
 
 Sams_joke = pyjokes.get_joke(language="en", category="all")
 

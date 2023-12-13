@@ -1,11 +1,11 @@
 import random
-import time
+from Misc.Sam import time
 
 # Enter the minimum and maximum limits of the dice rolls below
 
 min_val = 1
 
-max_val = 12
+max_val = 20
 
 
 # the variable that stores the user’s decision

@@ -1,4 +1,4 @@
-import time
+from Misc.Sam import time
 
 seconds = time.time()
 print("Time in seconds since the epoch:", seconds)

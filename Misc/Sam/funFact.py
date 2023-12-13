@@ -1,6 +1,6 @@
 import randfacts
 import string
-import time
+from Misc.Sam import time
 
 fact = randfacts.get_fact()
 

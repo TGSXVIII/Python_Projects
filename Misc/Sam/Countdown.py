@@ -1,4 +1,4 @@
-import time
+from Misc.Sam import time
 import os
 
 

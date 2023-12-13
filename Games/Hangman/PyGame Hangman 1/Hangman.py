@@ -43,7 +43,7 @@ l.pack()
 # Load hangman images with specified size
 hangman_images = \
     [
-        pygame.transform.scale(pygame.image.load(f"/Hangman/PyGame Hangman 2/Pictures/hangman{i}.jpg"), (IMAGE_WIDTH, IMAGE_HEIGHT)) for i in range(12)
+        pygame.transform.scale(pygame.image.load(f"../PyGame Hangman 1/Pictures/hangman{i}.jpg"), (IMAGE_WIDTH, IMAGE_HEIGHT)) for i in range(12)
     ]
 
 # Game variables
@@ -117,11 +117,11 @@ def game_loop(win):
                             # Check if the amount of incorrect guesses equals the max amount of guesses
                             if incorrect_guesses == max_attempts:
                                 # Load and display the image
-                                image = pygame.image.load(r"../PyGame Hangman 2/Pictures/you died.png")  # Use raw string or double backslashes
+                                image = pygame.image.load(r"Pictures/you died.png")  # Use raw string or double backslashes
                                 win.blit(image, ((WIDTH - image.get_width()) // 2, (HEIGHT - image.get_height()) // 2))
                                 pygame.display.update()
 
-                                playsound(r"../PyGame Hangman 2/Audio files/Voicy_YOU DIED .mp3")
+                                playsound(r"Audio files/Voicy_YOU DIED .mp3")
                                 time.sleep(1)
 
                                 print("Game over! The word was:", word)
@@ -136,13 +136,13 @@ def game_loop(win):
         # Check for win
         if "_" not in guessed_word:
             # Load and display the image
-            image = pygame.image.load(r"../PyGame Hangman 2/Pictures/victory.png")  # Use raw string or double backslashes
+            image = pygame.image.load(r"Pictures/victory.png")  # Use raw string or double backslashes
             win.blit(image, ((WIDTH - image.get_width()) // 2, (HEIGHT - image.get_height()) // 2))
             pygame.display.update()
 
             time.sleep(1)  # Adjust the time as needed
 
-            playsound(r"../PyGame Hangman 2/Audio files/Voicy_freddy fazbear meme.mp3")
+            playsound(r"Audio files/Voicy_freddy fazbear meme.mp3")
             time.sleep(1)  # Adjust the time as needed
 
             print("Congratulations! You guessed the word:", word)

@@ -1,5 +1,6 @@
 import random
-import time
+from Misc.Sam import time
+
 
 def coinToss():
     toss = input("Do you want to flip the coin again?: ").lower()

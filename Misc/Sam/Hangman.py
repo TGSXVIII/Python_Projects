@@ -1,5 +1,5 @@
 import random
-import time
+from Misc.Sam import time
 
 # Initial Steps to invite in the game:
 print("Welcome to Hangman")
