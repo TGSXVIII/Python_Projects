@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a620d38a-bc88-46f0-9eaf-8e19d509e00a" name="Changes" comment="this is all my python projects so far" />
+    <list default="true" id="a620d38a-bc88-46f0-9eaf-8e19d509e00a" name="Changes" comment="this is all my python projects so far">
+      <change afterPath="$PROJECT_DIR$/Machine Learning/Numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine Learning/Pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine Learning/Regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PycharmProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PycharmProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,9 +63,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mads020n/OneDrive - mercantec/PycharmProjects/Tic Tac Toe/PyGame TTT&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mads020n/Desktop/Machine Learning/MachineLearning&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor.code.editing&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -76,7 +83,7 @@
       <recent name="C:\Users\mads020n\OneDrive - mercantec\PycharmProjects\Spain work\OCR\Files" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.RPG">
+  <component name="RunManager">
     <configuration name="Hangman" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -314,7 +321,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702467935110</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="this is all my python projects so far">
+      <option name="closed" value="true" />
+      <created>1702468062254</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702468062254</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
